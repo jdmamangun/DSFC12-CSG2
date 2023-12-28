@@ -1,0 +1,7 @@
+pandas==1.5.2
+streamlit
+numpy
+joblib
+xgboost
+pip install --upgrade xgboost
+scikit-learn
